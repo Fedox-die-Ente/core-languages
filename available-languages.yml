@@ -1,0 +1,9 @@
+available_languages:
+  - code: de
+    name: German
+    head: soon
+  - code: en
+    name: English
+    head: soon
+
+default_language: en
