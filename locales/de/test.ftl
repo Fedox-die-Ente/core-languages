@@ -1,1 +1,1 @@
-hello-user = Hello, {$userName}!
+hello-user = Hallo, {$userName}!
