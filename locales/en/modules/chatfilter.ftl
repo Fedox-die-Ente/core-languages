@@ -1,4 +1,4 @@
-prefix = §7•§8● %col1%§lChat%col2%§lfilter §8» §7 
+prefix = §7•§8● %col1%§lChat%col2%§lfilter §8»§7 
 
 dont-advertise = {$prefix} §cPlease do not advertise!
 contains-blacklist = {$prefix} §cYour message contains blocked words.
