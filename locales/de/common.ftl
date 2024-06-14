@@ -6,3 +6,5 @@ player = Spieler
 text = Text
 number = Nummer
 amount = Anzahl
+
+console = Konsole

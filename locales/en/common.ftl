@@ -6,3 +6,5 @@ player = Player
 text = Text
 number = Number
 amount = Amount
+
+console = Console
