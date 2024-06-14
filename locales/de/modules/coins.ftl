@@ -1,4 +1,4 @@
-prefix = §7•§8● %col1%§lMünz%col2%§lverwaltung§8» §7 
+prefix = §7•§8● %col1%§lMünz%col2%§lverwaltung §8» §7 
 
 player-has-coins = {$prefix} Der Spieler %col1%{$player} §7hat %col1%{$coins} Münzen§7!
 have-coins = {$prefix} Du hast %col1%{$coins} Münzen§7!
