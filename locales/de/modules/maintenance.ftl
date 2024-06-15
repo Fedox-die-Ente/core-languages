@@ -8,7 +8,6 @@ reason = Grund
 maintenance-enabled = {$prefix} Der %col1%Wartungsmodus §7wurde aktiviert.
 maintenance-disabled = {$prefix} Der %col1%Wartungsmodus §7wurde deaktiviert.
 reason-set = {$prefix} Der %col1%Wartungsgrund §7wurde gesetzt zu %col1%{$reason}
-notify = {$prefix} Der Spieler %col1%{$player} §7wollte den Server betreten.
 
 message-template =
     §8§m     §r§8» %col1%§lWartungen §8«§8§m     §m
