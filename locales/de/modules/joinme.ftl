@@ -4,7 +4,7 @@ prefix = §7•§8● %col1%§lJoin%col2%§lMe §8»§7
 # Feedback
 not-enough-tokens = {$prefix} §cDu hast nicht genügend Tokens.
 successfully-sent = {$prefix} §aJoinMe wurde gesendet.
-blacklisted-group = {$prefix} Du kannst hier keine JoinMe machen.
+blacklisted-group = {$prefix} §cDu kannst hier keine JoinMe machen.
 
 # Commands
 
