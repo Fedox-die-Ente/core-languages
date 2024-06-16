@@ -8,7 +8,7 @@ blacklisted-group = {$prefix} §cDu kannst hier keine JoinMe machen.
 
 # Commands
 
-player-added = {$prefix} Es wurden %col1%{$tokens} Tokens §7an an %col1%{$player} §7gesendet.
+player-added = {$prefix} Es wurden %col1%{$tokens} Tokens §7an %col1%{$player} §7gesendet.
 player-removed = {$prefix} Es wurden %col1%{$tokens} Tokens §7von %col1%{$player} §7entfernt.
 player-set = {$prefix} Die Tokens von %col1%{$player} §7wurden auf %col1%{$tokens} Tokens §7gesetzt.
 tokens = {$prefix} Du hast %col1%{$tokens} Tokens.
