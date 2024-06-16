@@ -10,7 +10,7 @@ blacklisted-group = {$prefix} §cYou cannot create a JoinMe here.
 
 player-added = {$prefix} %col1%{$tokens} tokens §7have been sent to %col1%{$player}.
 player-removed = {$prefix} %col1%{$tokens} tokens §7have been removed from %col1%{$player}.
-player-set = {$prefix} The tokens of %col1%{$player} have been set to %col1%{$tokens} tokens.
+player-set = {$prefix} The tokens of %col1%{$player} §7have been set to %col1%{$tokens} tokens.
 tokens = {$prefix} You have %col1%{$tokens} tokens.
 
 command-joinme-add-desc = Add %col1%tokens §7to someone.
