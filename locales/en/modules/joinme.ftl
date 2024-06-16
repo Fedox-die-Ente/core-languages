@@ -20,4 +20,4 @@ command-tokens-desc = Number of your %col1%tokens.
 
 # Broadcast
 message-title = The player %col1%{$player} is now playing %col2%{$server}
-message-play = You can join
+message-play = §8[%col1%Join§8]
