@@ -19,5 +19,5 @@ command-joinme-set-desc = Setze jemanden %col1%Tokens.
 command-tokens-desc = Anzahl deiner %col1%Tokens.
 
 # Broadcast
-message-title = %col1%§l{$player} §7spielt %col2%§l{$server}
+message-title = %col1%§l{$player} §7spielt nun %col2%§l{$server}
 message-play = §8[%col1%Mitspielen§8]
