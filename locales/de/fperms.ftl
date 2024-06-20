@@ -7,3 +7,5 @@ group-does-not-exist = {$prefix} §cDie Gruppe existiert nicht.
 group-deleted = {$prefix} §7Die Gruppe %col1%{$group} §7wurde gelöscht.
 
 group-set = {$prefix} §7Der Wert %col1%{$key} §7wurde gesetzt zu %col1%{$value}
+
+invalid-color-format = {$prefix} §cUngültiges HEX-Format

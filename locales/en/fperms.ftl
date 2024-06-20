@@ -7,3 +7,5 @@ group-does-not-exist = {$prefix} §cThe group doesn't exist.
 group-deleted = {$prefix} §7The group %col1%{$group} §7was deleted.
 
 group-set = {$prefix} §7The field %col1%{$key} §7set to %col1%{$value}
+
+invalid-color-format = {$prefix} §cInvalid hex format
