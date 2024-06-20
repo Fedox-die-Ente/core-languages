@@ -17,3 +17,5 @@ parent-removed = {$prefix} §7Der Parent %col1%{$parent} §7wurde von %col1%{$gr
 permission-added = {$prefix} §7Die Permission %col1%{$permission} §7wurde erfolgreich hinzugefügt.
 permission-removed = {$prefix} §7Die Permission %col1%{$permission} §7wurde erfolgreich entfernt.
 permission-set = {$prefix} §7Die Permission %col1%{$permission} für die Gruppe %col1%{$group} wurde %col1%{$status}.
+
+name-updated = {$prefix} §aDein Name wurde in der Datenbank aktualisiert.
