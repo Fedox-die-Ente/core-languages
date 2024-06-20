@@ -19,3 +19,6 @@ permission-removed = {$prefix} §7The permission %col1%{$permission} §7was succ
 permission-set = {$prefix} §7The permission %col1%{$permission} for the group %col1%{$group} was %col1%{$status}.
 
 name-updated = {$prefix} §aYour name has been updated in the database.
+
+user-does-not-exist = {$prefix} §cThe user doesn't exist.
+user-set = {$prefix} §7The user has now the %col1%{$group} group.
