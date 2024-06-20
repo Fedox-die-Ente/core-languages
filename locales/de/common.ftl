@@ -8,3 +8,6 @@ number = Nummer
 amount = Anzahl
 
 console = Konsole
+
+enabled = deaktiviert
+disabled = aktiviert

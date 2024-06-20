@@ -8,3 +8,6 @@ number = Number
 amount = Amount
 
 console = Console
+
+enabled = enabled
+disabled = disabled
