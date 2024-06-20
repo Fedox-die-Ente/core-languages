@@ -13,3 +13,7 @@ invalid-color-format = {$prefix} §cInvalid hex format
 parent-does-not-exist = {$prefix} §cThe parent group doesn't exist.
 parent-added = {$prefix} §7The parent %col1%{$parent} §7has been added to %col1%{$group}§7.
 parent-removed = {$prefix} §7The parent %col1%{$parent} §7was removed from %col1%{$group}§7.
+
+permission-added = {$prefix} §7The permission %col1%{$permission} §7was successfully added.
+permission-removed = {$prefix} §7The permission %col1%{$permission} §7was successfully removed.
+permission-set = {$prefix} §7The permission %col1%{$permission} for the group %col1%{$group} was %col1%{$status}.
