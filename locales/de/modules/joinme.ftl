@@ -21,4 +21,4 @@ command-tokens-desc = Anzahl deiner %col1%Tokens.
 # Broadcast
 message-title = %col1%§l{$player} §7spielt nun %col2%§l{$server}
 message-rank = §7Rank §8- %col2%{$rank}
-message-play = §8[%col1%§oKlicke zum mitspielen §7oder %col1%§o/joinme_join {$id} §8]
+message-play = §8[%col1%§oKlicke zum mitspielen §7oder %col1%§o/join_joinme {$id} §8]
