@@ -20,4 +20,5 @@ command-tokens-desc = Number of your %col1%tokens.
 
 # Broadcast
 message-title = %col1%§l{$player} §7is playing on %col2%§l{$server}
+message-rank = §7Rank §8- %col2%{$rank}
 message-play = §8[%col1%§oClick here to join..§8]
