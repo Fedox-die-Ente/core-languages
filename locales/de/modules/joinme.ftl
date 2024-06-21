@@ -20,4 +20,4 @@ command-tokens-desc = Anzahl deiner %col1%Tokens.
 
 # Broadcast
 message-title = %col1%§l{$player} §7spielt nun %col2%§l{$server}
-message-play = §8[%col1%Mitspielen§8]
+message-play = §8[%col1%§oKlicke hier zum mitspielen..§8]
