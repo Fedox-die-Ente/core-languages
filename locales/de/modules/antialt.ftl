@@ -5,4 +5,4 @@ command-checkaccount-desc = "Überprüfe nach weiteren Accounts von einen Spiele
 checking-player = {$prefix} Spieler wird überprüft..
 no-accounts = {$prefix} Der Spieler %col1%{$player} §7hat keine weiteren Accounts.
 accounts-found = {$prefix} Der Spieler %col1%{$player} §7hat folgende Accounts:
-account = §8• §7{$account}
+account = {$prefix} §8• §7%account%
